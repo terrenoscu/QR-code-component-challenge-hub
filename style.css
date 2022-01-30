@@ -71,7 +71,7 @@ body {
 
 #fondo {
     background-color: red;
-    background-image: url(./images/image-qr-code.png);
+    background-image: url(image-qr-code.png);
     background-size: cover;
     background-repeat: no-repeat;
     display: block auto;
