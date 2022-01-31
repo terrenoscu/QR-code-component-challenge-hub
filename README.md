@@ -1,6 +1,6 @@
-> **DESKTOP VERSION** <
+> **DESKTOP VERSION** 
 ![image](https://user-images.githubusercontent.com/78498733/151889447-3089a20f-2630-489e-ab6c-7acbb445afe3.png)
 
-> **MOBILE VERSION** <
+> **MOBILE VERSION** 
 ![Screenshot_20220131-203026-655](https://user-images.githubusercontent.com/78498733/151890379-f3e7c532-178b-4e40-9fec-4c0a9c1d451c.png)
 
