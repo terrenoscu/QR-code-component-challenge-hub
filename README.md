@@ -6,10 +6,10 @@
 ## **Mobile VERSION** 
 ![Screenshot_20220131-203026-655](https://user-images.githubusercontent.com/78498733/151890379-f3e7c532-178b-4e40-9fec-4c0a9c1d451c.png)
 
-This is my first Frontend project! [Website](https://vterreno.github.io/QR-code-component-challenge-hub/) :frowning_man:
+:frowning_man: This is my first Frontend project! [Website](https://vterreno.github.io/QR-code-component-challenge-hub/) 
 
 Challenge from [Frontend Mentor](https://www.frontendmentor.io/) :mechanical_arm:
 
-Technologies used: HTML and CSS 💻
+Technologies used 💻: HTML and CSS 
 
-/@terrenoscu 🚀
+🚀/@terrenoscu 
