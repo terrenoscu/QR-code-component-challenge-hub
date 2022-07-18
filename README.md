@@ -10,6 +10,6 @@
 
 Challenge from [Frontend Mentor](https://www.frontendmentor.io/) :mechanical_arm:
 
-Technologies used 💻: HTML and CSS 
+💻 Technologies used: HTML and CSS 
 
 🚀/@terrenoscu 
